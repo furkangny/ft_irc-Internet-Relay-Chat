@@ -18,6 +18,7 @@
 <!-- &#128279; &#x1F517; -->
 * [2812-Client Protocol](https://datatracker.ietf.org/doc/html/rfc2812)
 * [1459-IRC Protocol](https://datatracker.ietf.org/doc/html/rfc1459)
+* [1459-Network Programming Turkish](https://www.scribd.com/doc/80829686/Beej-in-A%C4%9F-Programlama-K%C4%B1lavuzu)
 
 
 ## Table of Contents
