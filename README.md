@@ -2,13 +2,12 @@
 
 # KVIrc
 ![KVIrc-Logo](https://github.com/farukdll/Common-core/assets/97880185/16e5a386-4fd0-4d1d-a506-0499278168c4)
-![KVIrc-Logo](https://es.wikipedia.org/wiki/KVIrc#/media/Archivo:KVIrc_icon.svg)
 
 
 <!-- CONTRIBUTING -->
 ## Contributors
 * [fgunay](https://github.com/furkangny)
-* [Oyozcan](https://github.com/OyaOzcan)
+* [oyozcan](https://github.com/OyaOzcan)
 * [hdemirel](https://github.com/HsynDmrl)
 
 ## Turkish Version of the README
